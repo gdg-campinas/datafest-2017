@@ -1,0 +1,72 @@
+- 
+  date: "2017-09-26"
+  dateReadable: "26 de Setembro"
+  tracks: 
+    - {title: "Solution Talks", color: "#90be4e"}
+    - {title: "Tech Talks", color: "#03a9f4"}
+  timeslots:
+    - { 
+      startTime: "08:40",
+      endTime: "09:10",
+      sessionIds: [100]
+    }
+    - { 
+      startTime: "09:10",
+      endTime: "09:30",
+      sessionIds: [200]
+    }
+    - { 
+      startTime: "09:30",
+      endTime: "10:20",
+      sessionIds: [300]
+    }
+    - { 
+      startTime: "10:20",
+      endTime: "11:05",
+      sessionIds: [401, 402]
+    }
+    - { 
+      startTime: "11:05",
+      endTime: "12:05",
+      sessionIds: [600]
+    }
+    - { 
+      startTime: "12:05",
+      endTime: "12:50",
+      sessionIds: [501, 502]
+    }
+    - { 
+      startTime: "12:50",
+      endTime: "13:35",
+      sessionIds: [701, 702]
+    }
+    - { 
+      startTime: "13:35",
+      endTime: "14:20",
+      sessionIds: [801, 802]
+    }
+    - { 
+      startTime: "14:20",
+      endTime: "14:40",
+      sessionIds: [900]
+    }
+    - { 
+      startTime: "14:40",
+      endTime: "15:25",
+      sessionIds: [1001, 1002]
+    }
+    - { 
+      startTime: "15:25",
+      endTime: "16:10",
+      sessionIds: [1101, 1102]
+    }
+    - { 
+      startTime: "16:10",
+      endTime: "16:55",
+      sessionIds: [1200]
+    }
+    - {
+      startTime: "16:55",
+      endTime: "17:15",
+      sessionIds: [1300]
+    }
